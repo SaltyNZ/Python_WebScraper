@@ -17,4 +17,4 @@ Forking the repository
 Copying parts or snippets of the code with no changes and/or adaptations without permission
 Cloning the repository without permission
 
-These are only exaples and are there to set a standard if you are unsure please DM me on Teams or Discord
+These are only examples and are there to set a standard if you are unsure please DM me on Teams or Discord
