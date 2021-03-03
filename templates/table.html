@@ -1,0 +1,15 @@
+<tbody>
+    <th>Web Scraping NZ Directory</th>
+    <tr>
+        <td>Company</td>
+        <td>Address</td>
+        <td>Phone</td>
+    </tr>
+    {% for listing in listings %}
+        <tr>
+            <td>{{ listing['Business'] }}</td>
+            <td>{{ listing['Address'] }}</td>
+            <td>{{ listing['Phone Number'] }}</td>
+        </tr>
+    {% endfor %}
+</tbody>
