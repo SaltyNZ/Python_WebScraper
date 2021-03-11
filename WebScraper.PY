@@ -83,4 +83,4 @@ def getList(CataPage, Home):
     print(data)
     return data
 
-# getList('https://www.nzdirectory.co.nz/electronics.html', 'https://www.nzdirectory.co.nz/')
+getList('https://www.nzdirectory.co.nz/electronics.html', 'https://www.nzdirectory.co.nz/')
